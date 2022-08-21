@@ -4,3 +4,4 @@ this is nlp project which is most useful in online platform like,You tube,instag
 it takes previous or current data and it can be recoomend
 i done this poject with deployment
 steps of this projects are
+Data Collection
