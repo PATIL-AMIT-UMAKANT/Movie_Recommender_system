@@ -46,7 +46,10 @@ Don't worry if the movie that you are looking for is not auto-suggested. Just ty
     * **Item-based**, which measures the similarity between the items that target users rate or interact with and other items.
     > I have used **user based** collaborative filtering in this project.
      
- ## Similarity Score : 
+     
+ 
+  <br>
+## Similarity Score : 
 
    How does it decide which item is most similar to the item user likes? Here come the similarity scores.
    
