@@ -1,7 +1,7 @@
 # Movie_Recommender_system.
 Aim :- It can recommend a movie that you are watched. this project is most useful in online platform like,You tube,instagram and job portals
-it can takes previous or current data and it can be recoomend
-
+it can takes previous or current data and it can be recoomend<br>
+A Web Base user-item Movie Recommendation Engine using Collaborative Filtering By matrix factorizations algorithm and The recommendation based on the underlying idea that is if two persons both liked certian common movies,then the movies that one person has liked that the other person has not yet watched can be recommended to him.
 
 ![GitHub stars](https://img.shields.io/github/stars/rajaprerak/movie_recommender) 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/movie_recommender/commits/master)
