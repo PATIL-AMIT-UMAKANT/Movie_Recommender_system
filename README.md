@@ -16,8 +16,10 @@ Don't worry if the movie that you are looking for is not auto-suggested. Just ty
 
 ### Website Preview
 #### Home Page
+![Screenshot (568)](https://user-images.githubusercontent.com/94529852/186221589-f7819811-9048-4e1e-a602-1b4a8f11eb28.png)
 
 #### Detail Page
+![Screenshot (569)](https://user-images.githubusercontent.com/94529852/186221650-17c26182-7a69-4570-ad53-d887830224b9.png)
 
 ----
 
