@@ -2,7 +2,7 @@
 
      link/Deployment---->>>>>>> https://patilamit-movie-recommend-sys.herokuapp.com/
 
-Aim :- It can recommend a movie that you are watched. this project is most useful in online platform like,You tube,instagram and job portals
+Aim :-It can recommend a movie that you are watched. this project is most useful in online platform like,You tube,instagram and job portals
 it can takes previous or current data and it can be recoomend<br>
 A Web Base user-item Movie Recommendation Engine using Collaborative Filtering By matrix factorizations algorithm and The recommendation based on the underlying idea that is if two persons both liked certian common movies,then the movies that one person has liked that the other person has not yet watched can be recommended to him.
 <p>I've developed a similar application called "Movie_Recommender_system" which supports all language movies. But the only thing that differs from this application is that I've used the TMDB's recommendation engine in "Movie_Recommender_system". The recommendation part developed by me in this application doesn't support for multi-language movies as it consumes 200% of RAM (even after deploying it to Heroku) for generating Count Vectorizer matrix for all the 700,000+ movies in the TMDB. 
