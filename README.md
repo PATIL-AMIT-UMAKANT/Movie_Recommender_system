@@ -49,7 +49,6 @@ Don't worry if the movie that you are looking for is not auto-suggested. Just ty
     > I have used **user based** collaborative filtering in this project.
      
      
- 
   <br>
 ## Similarity Score : 
 
